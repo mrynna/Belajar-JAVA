@@ -17,7 +17,7 @@ public class belajar01 {
         */
 
         System.out.print("Ini merupakan print tanpa membuat baris baru");
-        System.out.println("Tanpa baris baru dan langsung tersambung");
+        System.out.print("Tanpa baris baru dan langsung tersambung");
         
         /*Print tipe 3
         Menampilkan dengan memberi format
