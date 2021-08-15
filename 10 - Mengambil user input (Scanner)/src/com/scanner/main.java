@@ -10,7 +10,7 @@ public class main {
         import java.util; pada bagian atas code setelah package.
 
         contoh :
-                    - Scanner newObject = new Scanner(System.in) --> myObject dapat diganti sesuai yg diinginkan (dengan syarat tidak ada conflict)
+                    - Scanner newObject = new Scanner(System.in) --> newObject dapat diganti sesuai yg diinginkan (dengan syarat tidak ada conflict)
 
         */
 
