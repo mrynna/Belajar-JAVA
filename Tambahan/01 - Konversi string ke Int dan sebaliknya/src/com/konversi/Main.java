@@ -9,7 +9,7 @@ public class Main {
         Hal ini juga bisa digunakan untuk mengatasi skip pada saat mencoba mengambil input user setelah perintah nextInt kemudian nextLine, seperti pada materi 10 (utama).
         */
 
-        /*Konversi string ke int dapat dilakukan dengan syntax 
+        /*Konversi Integer ke String dapat dilakukan dengan syntax 
                 - Integer.toString(nama variable); -> Nama variable merupakan variable yang ingin dikonversi
         */
         
@@ -25,7 +25,7 @@ public class Main {
         System.out.println(" | " + IntkeString.getClass().getSimpleName()); //menampilkan jenis tipe data dari variable IntkeString
         scanf.nextLine();
         
-        /*Konversi int ke string dapat dilakukan dengan syntax 
+        /*Konversi String ke Integer dapat dilakukan dengan syntax 
                 - Integer.parseInt(nama variable); -> Nama variable merupakan variable yang ingin dikonversi
         */
         
@@ -36,6 +36,8 @@ public class Main {
         System.out.println(" | " + inputstring.getClass().getSimpleName()); //Menampilakan jenis tipe data dari variable inputstring
         System.out.print("Setelah dikonversi : " + StringkeInt); //Menampilkan output variable StringkeInt
         System.out.println(" | " + Integer.valueOf(StringkeInt).getClass().getSimpleName()); //Menampilkan jenis tipe data dari variable StringkeInt
+
+        //Konversi Ini juga bisa dilakukan pada tipe data lain.
 
     }
 }
