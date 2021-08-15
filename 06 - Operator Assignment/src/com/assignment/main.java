@@ -21,7 +21,7 @@ public class main {
 
         a += 5; //assignment penjumlahan
         b -= 5; //assignment pengurangan
-        c *= 5; //assignment pembagian
+        c *= 5; //assignment perkalian
         d /= 5; //assignment pembagian
         e %= 5; //assignment modulus
         
