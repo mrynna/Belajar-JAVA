@@ -7,7 +7,7 @@ public class main {
         /*
         Cara untuk mengambil user input adalah dengan membuat objek baru dengan menggunakan Class 'Scanner'
         Untuk menggunakan class Scanner maka perlu di import terlebih dahulu classnya, dengan cara menyisipkan syntax
-        import java.util; pada bagian atas code setelah package.
+        import java.util.Scanner atau bisa langsung memasukkan java.util.*; pada bagian atas code setelah package.
 
         contoh :
                     - Scanner newObject = new Scanner(System.in) --> newObject dapat diganti sesuai yg diinginkan (dengan syarat tidak ada conflict)
