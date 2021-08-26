@@ -6,6 +6,7 @@ public class Main{
     public static void main(String[] args) {
         /*  
         Adalah while loop yang dimana aksi akan dijalankan pertama kali terlebih dahulu kemudian melihat kondisi untuk menjalankan aksi berikutnya
+        Jadi walaupun kondisi awal adalah false maka statement akan tetap dijalankan pertama kali
         Cara penggunaan : 
                             do{
                                 statement aksi
