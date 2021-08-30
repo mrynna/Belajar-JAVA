@@ -1,3 +1,4 @@
 ## Belajar-JAVA
 Kenalan sama JAVA
-<br/>Semua source code berada di dalam package (folder src/nama-tutorial/)
+<br/>Main Folder : Materi dasar
+<br/>Tambahan    : Materi tambahan dan Latihan
