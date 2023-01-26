@@ -27,7 +27,7 @@ public class Main {
          * Membuat array
           
            assignment
-                tipe_data[] nama_array = {data, dipisahkan dengan koma};
+                tipe_data[] nama_array = {data, dipisahkan dengan koma};   ==   tipe_data nama_array[] = {data, dipisahkan dengan koma};
                 int arrayAngka = {1,2,3,4,5};
          */ 
         System.out.println("Assignment array");
